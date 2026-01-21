@@ -1,4 +1,4 @@
-# deep_learning_2025
+# deep_learning_2026
 
 
 
@@ -27,11 +27,11 @@ The first time you want to run you need to get the code from github.  You can st
 
 On this page click on the green "code" button to get the repository address then do:
 
-`git clone https://github.com/abbeywaldron/deep_learning_2025.git`
+`git clone https://github.com/abbeywaldron/deep_learning_2026.git`
 
 Now you can change into the directory and look around to check you successfully got the files:
 
-`cd deep_learning_2025`
+`cd deep_learning_2026`
 
 `ls`
 
